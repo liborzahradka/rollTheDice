@@ -6,6 +6,8 @@ Dicey is the game based on PIG Dice game.
 
 ## Usage / Rules
 
+**Play here: [https://liborzahradka.github.io/rollTheDice/](https://liborzahradka.github.io/rollTheDice/)**
+
 ```
 - Roll the dice as a CURRENT SCORE will adds up.
 - Input will set the score you need to reach.
